@@ -1,0 +1,4 @@
+body > footer, body > header, body > main {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
